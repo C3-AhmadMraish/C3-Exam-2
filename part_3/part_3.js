@@ -16,7 +16,7 @@ const isABalancedString = () => {
 };
 
 /*
-
+                                                                              // 5 minutes left... WHAT IS THIS ?? :D 
 Examples:
 
 isABalancedString( '[]' )
